@@ -1,0 +1,12 @@
+{
+    "name": "namnv609/symfony-optionsreolver",
+    "authors": [
+        {
+            "name": "NamNV609",
+            "email": "namnv609@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/options-resolver": "^3.2"
+    }
+}
